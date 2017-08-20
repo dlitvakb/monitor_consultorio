@@ -1,0 +1,10 @@
+{
+    "error_email": {
+        "from_email": "",
+        "from_password": "",
+        "to_emails": []
+    },
+    "last_token": null,
+    "server_url": "",
+    "debug": true
+}
